@@ -10,6 +10,6 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
+// update wait
 
 reportWebVitals();
