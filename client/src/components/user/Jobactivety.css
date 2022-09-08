@@ -1,0 +1,34 @@
+.fix{
+    margin-top: 300px;
+    /* margin-left: 300px; */
+    text-align: center;
+}
+
+.mar{
+    margin-top:10px
+}
+.sel{
+    width: 200px;
+}
+
+.from-size{
+    height: 40px;
+    width: 600px;
+}
+
+
+.form-outline{
+    width: 600px;
+    /* height: 50px; */
+}
+.flexo{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    background-color: #456e92;
+    /* background-color: aquamarine; */
+}
+body
+.ripple{
+    margin-right: 10px;
+}
